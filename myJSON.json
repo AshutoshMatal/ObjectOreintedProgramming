@@ -1,0 +1,25 @@
+
+	{
+    
+	"rice": [
+		{
+			"pricePerkg": 60,
+			"name": "basmati",
+			"weight": 7
+		}
+	],
+	"wheats": [
+		{
+			"pricePerkg": 45,
+			"name": "chakki_fresh",
+			"weight": 5
+		}
+	],
+	"pulses": [
+		{
+			"pricePerkg": 65,
+			"name": "greens",
+			"weight": 3
+		}
+	]
+}
